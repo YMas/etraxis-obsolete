@@ -1,0 +1,6 @@
+{
+	"require":{
+		"aura/sqlquery": "dev-master",
+		"doctrine/common": "2.5.*@dev"
+	}	
+}
